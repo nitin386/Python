@@ -1,0 +1,20 @@
+Your Expenses:
+----------------
+Food - 25000.00
+Travel - 12000.00
+Rent - 15000.00
+
+----------------
+Total Expense: 52000.00
+Average Expense: 17333.33
+
+Your Expenses:
+----------------
+Food - 17200.00
+Internet - 2500.00
+Travel - 14000.00
+
+----------------
+Total Expense: 33700.00
+Average Expense: 11233.33
+
